@@ -1,0 +1,10 @@
+c:\users\kevin\documents\visual studio 2015\Projects\Taximeter\Taximeter\bin\Debug\Taximeter.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\Taximeter\Taximeter\obj\Debug\Taximeter.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\Taximeter\Taximeter\obj\Debug\Taximeter.Menu.resources
+c:\users\kevin\documents\visual studio 2015\Projects\Taximeter\Taximeter\obj\Debug\Taximeter.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\Taximeter\Taximeter\obj\Debug\Taximeter.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Taximeter\Taximeter\bin\Debug\Taximeter.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Taximeter\Taximeter\bin\Debug\Taximeter.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Taximeter\Taximeter\obj\Debug\Taximeter.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Taximeter\Taximeter\obj\Debug\Taximeter.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Taximeter\Taximeter\obj\Debug\Taximeter.Menu2.resources
